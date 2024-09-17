@@ -30,7 +30,7 @@ The course delves into advanced Deep Learning concepts such as:
 ├── assignment4/
 │   ├── AE and VAE
 │   ├── code
-├── assignment5/
+├── Project/
 │   ├── Kaggle Project code
 └── README.md
 ```
